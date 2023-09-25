@@ -1,0 +1,9 @@
+{
+  "sales_data_csv_loc": "data/source/sales.csv",
+  "users_sales_csv_loc": "data/transformed/users_sales.csv",
+  "sales_per_customer_csv_loc": "data/transformed/sales_per_customer.csv",
+  "total_orders_per_product_csv_loc": "data/transformed/total_orders_per_product.csv",
+  "sorted_product_sales_csv_loc": "data/transformed/sorted_product_sales.csv",
+  "sale_per_month_csv_loc": "data/transformed/sale_per_month.csv",
+  "avg_sale_per_weather_csv_loc": "data/transformed/avg_sale_per_weather.csv"
+}
